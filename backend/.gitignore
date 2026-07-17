@@ -1,0 +1,12 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.local
+.phpunit.result.cache
+dist/
+npm-debug.log
+out/
